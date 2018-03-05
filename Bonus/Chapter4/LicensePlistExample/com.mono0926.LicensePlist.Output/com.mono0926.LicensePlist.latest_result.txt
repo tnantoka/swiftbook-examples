@@ -1,0 +1,15 @@
+name: Alamofire, nameSpecified: , owner: Alamofire, version: 
+
+name: PKHUD, nameSpecified: , owner: pkluz, version: 
+
+name: Eureka, nameSpecified: , owner: xmartlabs, version: 
+
+name: SwiftIconFont, nameSpecified: , owner: 0x73, version: 
+
+name: KeychainAccess, nameSpecified: , owner: kishikawakatsumi, version: 
+
+name: realm-cocoa, nameSpecified: , owner: realm, version: 
+
+add-version-numbers: false
+
+LicensePlist Version: 1.7.0

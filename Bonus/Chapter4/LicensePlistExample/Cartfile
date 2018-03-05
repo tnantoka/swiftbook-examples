@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" == 4.5.1
+github "pkluz/PKHUD" == 5.0.0
+github "xmartlabs/Eureka" == 4.0.1
+github "0x73/SwiftIconFont" == 2.7.2
+github "kishikawakatsumi/KeychainAccess" == 3.1.0
+github "realm/realm-cocoa" == 3.0.0
