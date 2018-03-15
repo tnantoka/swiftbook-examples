@@ -37,9 +37,9 @@ https://github.com/tnantoka/swiftbook-examples/archive/master.zip
 
 サンプルアプリ内で利用している各フォントはそれぞれのライセンスに従います。
 
-- http://ionicons.com（MIT License）
-- http://fontawesome.io/（SIL Open Font License）
-- https://fonts.google.com/specimen/Italiana（SIL Open Font License）
+- http://ionicons.com (MIT License)
+- http://fontawesome.io/ (SIL Open Font License)
+- https://fonts.google.com/specimen/Italiana (SIL Open Font License)
 
 Bonus/Chapter4で使用している各ライブラリ・ツールも各ライセンスに従います。
 
