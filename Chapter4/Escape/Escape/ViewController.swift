@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         /// [marker1]
-        let text = "\"text\"\"
+        let text = "\"text\"\\"
         print(text)
         /// [marker1]
     }
