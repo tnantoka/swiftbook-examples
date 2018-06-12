@@ -289,8 +289,8 @@ let info = [
     "fontSize": 16
 ]
 
-print(info.min { a, b in a.value < b.value })
-print(info.max { a, b in a.value < b.value })
+print(info.min { $0.value < $1.value })
+print(info.max { $0.value < $1.value })
 /* MinMaxShorthand */
 }
 
